@@ -75,7 +75,7 @@
         native component will provide a Login/password alternative but still using LNURL specs.
       </p>
 
-      <h3>Where are stored my users?</h3>
+      <h3>Where are my users stored?</h3>
       <p>
         It is the responsibility of your application to store your users. Zerologin facilitates
         LNURL-Auth integration for everyone. You can link your users in your database using the user
